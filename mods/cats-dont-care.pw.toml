@@ -1,6 +1,6 @@
 name = "Cats Don't Care (CDC)"
 filename = "cats-dont-care-1.0.1+1.21.1+neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OihWKxvL/versions/AWH0Ycuw/cats-dont-care-1.0.1%2B1.21.1%2Bneoforge.jar"
