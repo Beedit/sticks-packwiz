@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "README.md"
+hash = "63d5556196318cf2d6392bce58e1ea585383bce75cf17df3c6fa32abe5ccec26"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b3b67f83faf9dcc4985b7a13fa8affb71062461d271f80cc0958652df9f3126b"
 metafile = true
@@ -42,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified-ie.pw.toml"
-hash = "a8e59ef8e09365c7feaebf2de286c93f0dbb490ccc9193e6ccaf37ac257f9019"
+hash = "502f0faff0907e876b91eea68cc04d3342c22cd656d4555ad4f353885416301a"
 metafile = true
 
 [[files]]
@@ -172,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/cats-dont-care.pw.toml"
-hash = "272ed2a4936138e114741928b35cc168b2353f39db0bd335fdc2a03093ad6988"
+hash = "c73e0878d3610918d5c2a732d2466271bac4d36dee4ea3e08db23e4416694ddd"
 metafile = true
 
 [[files]]
@@ -292,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cats-dont-care.pw.toml"
-hash = "2c4a48b5ad43ca1abec21109f7aecc00c2e7f78e5a60573f116b6f7071590814"
+hash = "773c25b1745231461ae79459f9690287a0766fa9f9e7f9389ec83ff85b190c0c"
 metafile = true
 
 [[files]]
@@ -502,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
-hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
+hash = "71651e89e2a5c63ecb5e64ae79cc20b8cd37b03ce9210997443b7d64c98cdd52"
 metafile = true
 
 [[files]]
@@ -567,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
-hash = "b3e2786cd6d151651aa8ddc6548bc8e8bb7f67a10884f9570608ea11fc1197f6"
+hash = "ad797a4747adf0a547aff1f6bdb0c99d27b96324356fd0420fe9167e526d7185"
 metafile = true
 
 [[files]]
@@ -1212,12 +1220,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+hash = "e839608ebc974e9e7819adc7bf29132ea86fc41b46af540fe0fa39b2007b2439"
 metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
-hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
+hash = "c5e5f5aed37edd8073ec736e179b6159530ff497f4fe4c4dfaf954c810910433"
 metafile = true
 
 [[files]]
