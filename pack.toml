@@ -1,0 +1,13 @@
+name = "gays"
+author = "all of you faggots"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "33a9c8bfc8456942f4b30f510b0ad648700c19e751126924d8fbe64d519d89b8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"

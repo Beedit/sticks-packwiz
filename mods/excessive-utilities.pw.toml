@@ -1,0 +1,13 @@
+name = "Excessive Utilities"
+filename = "excessive-utilities-1.21.1-1.9.0-build.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zI2FlF4Q/versions/TX75l0Qp/excessive-utilities-1.21.1-1.9.0-build.28.jar"
+hash-format = "sha512"
+hash = "2f7a0a27cc9f20e0ad478782cdbcdc2984b497dd1ec6db44084ee64d9296fdd737adeb8f2efcd18bfb77834481764b210017125abd1357cd1fb0782637b18c44"
+
+[update]
+[update.modrinth]
+mod-id = "zI2FlF4Q"
+version = "TX75l0Qp"
