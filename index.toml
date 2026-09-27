@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/cynosure.pw.toml"
-hash = "1f26da88aac5425aed22fb182d993076c882591e0a62b136b96bd9ec0d060ab2"
+hash = "15da1f120a35d6c9ad038f7cf61d1d0b4361698f7f5dd5db9564cc75e7aacfb5"
 metafile = true
 
 [[files]]
