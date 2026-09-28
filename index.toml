@@ -929,6 +929,11 @@ hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
 metafile = true
@@ -1211,6 +1216,11 @@ metafile = true
 [[files]]
 file = "mods/xp-tome.pw.toml"
 hash = "e328921ddfa33f9679adc80d8ae6d11cd407b95f5a8e73cb3e2f78708f6888d1"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
