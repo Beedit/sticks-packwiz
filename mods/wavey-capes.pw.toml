@@ -1,6 +1,6 @@
 name = "Wavey Capes"
 filename = "waveycapes-neoforge-1.11.2-mc1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/7ndXqAZv/waveycapes-neoforge-1.11.2-mc1.21.1.jar"

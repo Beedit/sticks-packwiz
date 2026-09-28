@@ -1,6 +1,6 @@
 name = "No Realms Button"
 filename = "norealmsbutton-3.0.4+1.21-neoforge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AMMUyCdF/versions/65K76rSJ/norealmsbutton-3.0.4%2B1.21-neoforge.jar"
