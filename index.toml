@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "43ba915557b995369cf361808263555c761a5033927dddceca4dbb21079c18db"
+hash = "5386763a89493ea2c4ab581e66ace9317641e4c6c5f094769b13e83b1f6be7aa"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
+hash = "8e0a036130785555a20815bb51ea28912b01917aee9a3dce68deb7176a928ce6"
 metafile = true
 
 [[files]]
