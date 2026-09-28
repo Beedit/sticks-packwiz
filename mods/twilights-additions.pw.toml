@@ -1,0 +1,13 @@
+name = "Twilight's Additions"
+filename = "TA 1.6.4, Neoforge 1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "177bbeea7e08b7f671d3019bf18a52c28f031b15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7744177
+project-id = 1328197
