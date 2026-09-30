@@ -139,6 +139,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "a73d8679c4bfd8fcb09b3c1397ee437fe22486db2a5819fad0a5a09fb281d952"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "9f166aadf7b012642c3fbe0c244a38b27efe0e27d220fd80cb5cd28e327e3e85"
 metafile = true
@@ -279,8 +284,18 @@ hash = "4c0943468e816c02ad58398d600e6c5c413d3a3e0495d3245cd77c4066a14e77"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "7c5d1fb47ffd309dc332ad2011e2e392b54d74dc49607872af01222a1df24186"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -446,6 +461,11 @@ metafile = true
 [[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
@@ -624,6 +644,11 @@ hash = "bc3920a3fb291a8bc8df9717233e54dd1c909b65528afbe1b617373c7b4b38c0"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "554fc5e8aba13353c9b9d4ff066ec6aaf1bd559550633ef4ace120541cada94b"
+metafile = true
+
+[[files]]
 file = "mods/hypertube.pw.toml"
 hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
 metafile = true
@@ -631,6 +656,11 @@ metafile = true
 [[files]]
 file = "mods/icarus.pw.toml"
 hash = "adfbe1920966d02f9bcfb44d44f6aaa6c383deed419cd7c405c16b57aaf68fda"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
 
 [[files]]
@@ -666,6 +696,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "07a4d9588657fac6dc29dcff897ae484f90d1147859382053acd6d18eb662d65"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "709a01e949975ef624c4fbeabb1d8a2339eb50709d2b3e1e84732ca31f341c4d"
 metafile = true
 
 [[files]]
@@ -759,6 +794,11 @@ hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "8c5d6a4e7804c630aee2c3f9555dd2ca809198cfbeac7eb278cee536cad7d6af"
+metafile = true
+
+[[files]]
 file = "mods/maxwell-the-placeable-cat.pw.toml"
 hash = "2a0e85e295ed5f6cb73202b342dbcf3909978fa520a54f417f3b44635b71cf81"
 metafile = true
@@ -806,6 +846,11 @@ metafile = true
 [[files]]
 file = "mods/mekanismmoremodules.pw.toml"
 hash = "16b3b0921b5a94a9e7d3b6bd7f6aca4c5547785fedd14f74c925de6450c98fc9"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
 metafile = true
 
 [[files]]
@@ -879,13 +924,18 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "dc7e58c97d56d9764f578eb0afe6464e47701e7d72b5bd6a3d37e868bc0924bc"
+metafile = true
+
+[[files]]
 file = "mods/no-realms-button.pw.toml"
 hash = "4a152804dad5f066f52f4269550705177da7fcc4a6e269015e8673a5ef77b0a0"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5843da23b924a18f48f5d1d234580d49645833b76e3762e9aafc4355620b0809"
+hash = "e0f1cef5482844e62c6fc3c7771fc9ef8385c47092248f76aa1fa271220b24e8"
 metafile = true
 
 [[files]]
@@ -920,7 +970,12 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "b6352943fa6f6c090d9ccd8756bf24db54da9eef2de01ba92912bcfdd47ff8fc"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
 metafile = true
 
 [[files]]
@@ -989,6 +1044,11 @@ hash = "5601b14e126014bb01c650e24ef9eae1a6bfe59d23828fbfb98523dc07e75abc"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
 metafile = true
@@ -1000,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "dbd24884724789d8012d58e2d3c5204cd637030563cde698c1c99891ca3607ae"
+hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
 
 [[files]]
@@ -1034,6 +1094,11 @@ hash = "3cb4f127b8742215ad6d36ae965d851657d36a27cb8e9b74535e1b2aa0bd0586"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "624e7455a378da6bce5b9fdd97e27c4125472cdac0173c73a8406f2067ef07a9"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
@@ -1044,8 +1109,18 @@ hash = "2037c01b68f261d9ca033b1166cf32d63ddb5dc66b69e03d5d5fb24f22a9707e"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "1d8cade30558d813a56021bbad054063b9d9f184896e596bd6517186b687b1e2"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b62e1a32d2d6a18ea848f58d629f9caf5565a90495de33cdfbebd041c735c07b"
+metafile = true
+
+[[files]]
+file = "mods/selectivebounds.pw.toml"
+hash = "ce618a6fa7d49511263b38fd2619149500dab81bd0cb361792418f7a0738871c"
 metafile = true
 
 [[files]]
@@ -1221,6 +1296,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]

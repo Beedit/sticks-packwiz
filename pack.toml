@@ -1,12 +1,12 @@
 name = "gays"
-author = "all of you faggots"
+author = "all of you gays"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c7cc5238217c8566b79f91361d0d08c69a9b8a21a6f156c034141d4684b1cd9d"
+hash = "9230a130f322e828214c2be89c6c0db7f1e5ee790bdecb34a8a952fae6a7516b"
 
 [versions]
 minecraft = "1.21.1"
