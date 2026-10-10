@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
-
-[[files]]
-file = "README.md"
-hash = "63d5556196318cf2d6392bce58e1ea585383bce75cf17df3c6fa32abe5ccec26"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "75f2100de884e11d64f9964a622399311f45923308e4973aa852b75804ccfc9a"
 metafile = true
@@ -111,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "8e0a036130785555a20815bb51ea28912b01917aee9a3dce68deb7176a928ce6"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "00164cb8596bbeffb1c05bc29df93655320a13db96caf656544a3e004998b8e6"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "ccdc664b80bbca5cb2df219da0ff29ae78ab843a952ad1e59d737c29543ae8cf"
 metafile = true
 
 [[files]]
@@ -231,6 +233,16 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/cirrus.pw.toml"
+hash = "284c7050bbb93bd5b834ad003bfdc23c6666f0d00af1cff0f6fa3c0b00507481"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "9ffb5faad0515226f429facfe8231b6395c72ffa4a731c0548802e5f69ff6b7b"
 metafile = true
 
 [[files]]
@@ -524,6 +536,11 @@ hash = "a5a84995813d90e4eb6a4b1d438e0f06bb4b15f899ddae275c145420bf0551e4"
 metafile = true
 
 [[files]]
+file = "mods/envelope.pw.toml"
+hash = "3d6cf23f244fcf97731c6d224eaf083d536eb828bcbdabcaf1ed8b5b9dfcba64"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "72b574928516e3d01e66b4ea3981480dc9c5175121b2001812a6cd0dca2f1b7d"
 metafile = true
@@ -634,6 +651,11 @@ hash = "3e01cdd2624cf991ee41d11263e509aaceba2a8219a229b62d956ac6850de5d5"
 metafile = true
 
 [[files]]
+file = "mods/gnetum.pw.toml"
+hash = "3979402652cc5c5eb7e4b08cecd19e1745832923ebe6679b239bca8864578cb1"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "d18f1ea4c6c1c2f99f18a8725d11e14c93abd29988df24c967794fc52e9c969c"
 metafile = true
@@ -709,8 +731,18 @@ hash = "13331177fdf578f47c26564e1cb181ee0b0c15312036621e81557a664e240d03"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "c4a7da01fd934c427281cf304872e4bbc3642e61751e1e3b558547733fc2ca12"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+metafile = true
+
+[[files]]
+file = "mods/jasione.pw.toml"
+hash = "f85e238f07782d2ba3c79d1e55636e1ed58e7da91052c6c6b6c79183035ddc8b"
 metafile = true
 
 [[files]]
@@ -904,6 +936,11 @@ hash = "bf8fe95846cd7a26b1e90c703abaa3963a122a938b5ed1710df1929a792054c9"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "f12ee0c88176e66a61de272f1be98077a86560c199903514de7657564130c34f"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
@@ -999,6 +1036,11 @@ hash = "2f9f0f8c05ce7e410a70cfed595e623fe8031df89a8a9ba9a8aaaa419eb4d18b"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
 file = "mods/plushie-buddies.pw.toml"
 hash = "232cc64017e10c72eb65e1c210e6e1d14ce4391a2534912e023467dfc5f8ad1a"
 metafile = true
@@ -1059,6 +1101,26 @@ hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
 metafile = true
 
 [[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "8764131810fe40b283c8f74108dbe37f90235b31d462a5635d019a962c606130"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "23c73e3682d1c326619a4180d3d242cf96c8fcb8fd1d83cabfa077b962adc0e7"
+metafile = true
+
+[[files]]
+file = "mods/reach-behind.pw.toml"
+hash = "1c142a704ecd35eebbe2873e44b9ca962e322f77b53845ff704a4e573472af0d"
+metafile = true
+
+[[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "2a4f123fab3b78243abc248cc22c83a496b5d0c189d54b64fdfd52fdcaf42a56"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8690379014fbba53059759936c7deb4d62aabc7a2006da3d45929dc582b119b7"
 metafile = true
@@ -1114,6 +1176,11 @@ hash = "1d8cade30558d813a56021bbad054063b9d9f184896e596bd6517186b687b1e2"
 metafile = true
 
 [[files]]
+file = "mods/seamless.pw.toml"
+hash = "9d6127eef738ef427935b2011e08618184ec6d197d25e3a999ac772c0a0733b4"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b62e1a32d2d6a18ea848f58d629f9caf5565a90495de33cdfbebd041c735c07b"
 metafile = true
@@ -1121,6 +1188,11 @@ metafile = true
 [[files]]
 file = "mods/selectivebounds.pw.toml"
 hash = "ce618a6fa7d49511263b38fd2619149500dab81bd0cb361792418f7a0738871c"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
 
 [[files]]
@@ -1151,6 +1223,11 @@ metafile = true
 [[files]]
 file = "mods/soulbound-enchantment.pw.toml"
 hash = "8d9d741f3b4a89c617f8ea7d4ba02c0b82e8703e441478f23633945a1a653988"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
@@ -1191,6 +1268,11 @@ metafile = true
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
 hash = "afee8d508e5bee4073a0b328441e8948ade246e8fab109b988bd0bb2c5853175"
+metafile = true
+
+[[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
 metafile = true
 
 [[files]]
@@ -1259,6 +1341,11 @@ hash = "ef34a926e396ec890f03eff757de5dafca2d86fe054111b4ca8e9680fab50aa5"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
+metafile = true
+
+[[files]]
 file = "mods/veinminer-enchantment.pw.toml"
 hash = "9677ea6c4274a147bc2fe7d1b2d35c18c091902fd4b135e1e54e2c646ff85164"
 metafile = true
@@ -1286,6 +1373,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "0749b4ea01a7324faf273f33731faaa0a11813121076a63fd6ec2a431fbe99db"
+metafile = true
+
+[[files]]
+file = "mods/wavify.pw.toml"
+hash = "0dec68161d522a0de581dd288334a99c64083711496635b2159ea680878e9b4e"
 metafile = true
 
 [[files]]
