@@ -1006,11 +1006,6 @@ hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
-metafile = true
-
-[[files]]
 file = "mods/pastel.pw.toml"
 hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
 metafile = true
