@@ -141,6 +141,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
+metafile = true
+
+[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "a73d8679c4bfd8fcb09b3c1397ee437fe22486db2a5819fad0a5a09fb281d952"
 metafile = true
@@ -771,6 +776,11 @@ hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
@@ -1086,6 +1096,11 @@ hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
+file = "mods/productive-metalworks.pw.toml"
+hash = "694d12649998576224bbaa1b13939e1fd6e099320d73a0c5304e442f3c037652"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "391e5d415c0754ad210b8efa54fc9ded4f99e6ab8562d6faf960f3b65d84a66a"
 metafile = true
@@ -1151,6 +1166,11 @@ hash = "3cb4f127b8742215ad6d36ae965d851657d36a27cb8e9b74535e1b2aa0bd0586"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "624e7455a378da6bce5b9fdd97e27c4125472cdac0173c73a8406f2067ef07a9"
 metafile = true
@@ -1181,6 +1201,11 @@ hash = "b62e1a32d2d6a18ea848f58d629f9caf5565a90495de33cdfbebd041c735c07b"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "98ac007465eca5728fdcfda196966022ea8ca288e631b631861b5208b9a94562"
+metafile = true
+
+[[files]]
 file = "mods/selectivebounds.pw.toml"
 hash = "ce618a6fa7d49511263b38fd2619149500dab81bd0cb361792418f7a0738871c"
 metafile = true
@@ -1196,13 +1221,18 @@ hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
+file = "mods/silent-gear-metalworks.pw.toml"
+hash = "07ef9dc9aaec17f47b839b3a1063744b89a7a859177e8fc208c4e2b3223c718a"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
-hash = "087ba9ed2ea4bfbf8e8ec6fafae467f4b4e8d262f46f8066e3f84dc5e231ec21"
+hash = "755810e71ed93c8c9b992a6163b5c3fe8fe27c5b46d075123e892f2d69a8b46c"
 metafile = true
 
 [[files]]
 file = "mods/silent-lib.pw.toml"
-hash = "d692170020a2e8b1dd1d0af610a14c25553bae66bb3f7372123115b5c7bc6157"
+hash = "c69dcffbc7e5fd5a78a8292d696d589be53e9a6c3edbb8317d9fc441b54589f9"
 metafile = true
 
 [[files]]
