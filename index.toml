@@ -196,6 +196,11 @@ hash = "c73e0878d3610918d5c2a732d2466271bac4d36dee4ea3e08db23e4416694ddd"
 metafile = true
 
 [[files]]
+file = "mods/cc-create-compat.pw.toml"
+hash = "d8e0b0c5a083db8890a60b76d57806442ad81c14da46b1d8e75779579f569fa7"
+metafile = true
+
+[[files]]
 file = "mods/cc-hud-glasses.pw.toml"
 hash = "6e3c91301c76b7cc2f282e7a0f83f405a1e924332c2e4246db36048a236c02c1"
 metafile = true

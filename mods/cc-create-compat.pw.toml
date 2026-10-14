@@ -1,0 +1,13 @@
+name = "CC: Create Compat+"
+filename = "cccreatecompat_plus-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MgkOz8a7/versions/Vy7HoRdO/cccreatecompat_plus-1.0.0.jar"
+hash-format = "sha512"
+hash = "cc7515a445d8d6f179be384bb5ca7ff5862d40a2272fd802bd793bdf64718cb6c0912326994411ca2389660c7a9ec5c2e324ae349bca95769a6f385b72a75827"
+
+[update]
+[update.modrinth]
+mod-id = "MgkOz8a7"
+version = "Vy7HoRdO"
