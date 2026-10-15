@@ -761,6 +761,11 @@ hash = "655e89ea0bf81c0b5c6685f6547dc845daff83f6d42b9b949016ccb1a8e71d28"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "7358789081b9ff127b20b86bee860392e60587fa90c3e61a3a05c8983f06013d"
+metafile = true
+
+[[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "81828c5eed16d801147c4d47146f5c56d2ccacec0ce00760cbeb8ff03c27b032"
 metafile = true
@@ -893,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/mekanismmoremodules.pw.toml"
 hash = "16b3b0921b5a94a9e7d3b6bd7f6aca4c5547785fedd14f74c925de6450c98fc9"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "cf5d87f046590b99d92096a79f6ea2f456290ba5d423c256f06674d2d10a1592"
 metafile = true
 
 [[files]]
