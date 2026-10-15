@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -516,6 +516,11 @@ hash = "7c006fbe7ad47bcdd1715b25cdb08699acb512a8e331a2fe4f01d898f3bb5103"
 metafile = true
 
 [[files]]
+file = "mods/emi-for-create.pw.toml"
+hash = "8b86b6aeeb27dc6e110e76176184eda8e0a2addc7c7932095d053925ab3a1fc3"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
 metafile = true
@@ -527,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
 metafile = true
 
 [[files]]
