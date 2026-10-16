@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/glass-1.0.0+1.21.1-neoforge.jar"
-hash = "a2cca138f7626601946424e74fbdc749ee8fbb795ffcc6802654a02843d1968f"
+hash = "f33192d700afdb5ec7d502b62ab5bc4139cabd202a68e7499e303433d27bcabe"
 
 [[files]]
 file = "mods/gnetum.pw.toml"
