@@ -670,6 +670,10 @@ hash = "3e01cdd2624cf991ee41d11263e509aaceba2a8219a229b62d956ac6850de5d5"
 metafile = true
 
 [[files]]
+file = "mods/glass-1.0.0+1.21.1-neoforge.jar"
+hash = "a2cca138f7626601946424e74fbdc749ee8fbb795ffcc6802654a02843d1968f"
+
+[[files]]
 file = "mods/gnetum.pw.toml"
 hash = "3979402652cc5c5eb7e4b08cecd19e1745832923ebe6679b239bca8864578cb1"
 metafile = true
@@ -1412,6 +1416,16 @@ metafile = true
 [[files]]
 file = "mods/voltaic.pw.toml"
 hash = "27645fd773dff44b90c84a80f1ebd1878a889a1f04fcb777aacca626ec30727c"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-binaries.pw.toml"
+hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2057c4d3699348a75e8ad5127cbabf8a1c01cae1f5bc32918812075996ba4d13"
 metafile = true
 
 [[files]]
