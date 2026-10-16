@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/server_scripts/remove_ie_wire_cutting.js"
+hash = "9f90d8f3ae82cdd38eebede29ae2fd02fe9cd3694a8db645de340f065770ab8a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "75f2100de884e11d64f9964a622399311f45923308e4973aa852b75804ccfc9a"
 metafile = true
