@@ -10,8 +10,8 @@ ServerEvents.recipes(event => {
     ],
     {
         'A': 'minecraft:netherite_ingot',
-        'B': 'mekanism:antimatter_pellet',
+        'B': 'mekanism:pellet_antimatter',
         'C': 'minecraft:nether_star'
     }
-  )
+  );
 })
