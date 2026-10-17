@@ -15,31 +15,31 @@ ServerEvents.recipes(event => {
     }
   );
 
-  // event.shaped(
-  //   Item.of('create:creative_blaze_cake', 1),
-  //   [
-  //     'AAA',
-  //     'ABA',
-  //     'AAA'
-  //   ],
-  //   {
-  //     A: 'mekanism:pellet_antimatter',
-  //     B: 'create:blaze_cake'
-  //   }
-  // )
+  event.shaped(
+    Item.of('create:creative_blaze_cake', 1),
+    [
+      'AAA',
+      'ABA',
+      'AAA'
+    ],
+    {
+      A: 'mekanism:pellet_antimatter',
+      B: 'create:blaze_cake'
+    }
+  )
 
-  // event.shaped(
-  //   Item.of('create:creative_motor', 1),
-  //   [
-  //     'ABA',
-  //     'BCB',
-  //     'ABA'
-  //   ],
-  //   {
-  //     A: 'minecraft:netherite_ingot',
-  //     B: 'mekanism:pellet_antimatter',
-  //     C: 'mekanism:ultimate_induction_cell'
-  //   }
-  // )
+  event.shaped(
+    Item.of('create:creative_motor', 1),
+    [
+      'ABA',
+      'BCB',
+      'ABA'
+    ],
+    {
+      A: 'minecraft:netherite_ingot',
+      B: 'mekanism:pellet_antimatter',
+      C: 'mekanism:ultimate_induction_cell'
+    }
+  )
 
 });
