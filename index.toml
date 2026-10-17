@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/creative_physics_gun.js"
-hash = "b3fdfd093ff2de1d67385f2b3cc21bdf3798ad66d0a61cea6fcc21d2cc98ab5a"
+hash = "7a48a4c10b465115feab0defcdd443b65f4bb76d2bf6ddcb24f4517c2cc36b41"
 
 [[files]]
 file = "kubejs/server_scripts/remove_ie_wire_cutting.js"
