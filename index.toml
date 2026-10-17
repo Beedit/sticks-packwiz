@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/server_scripts/creative_physics_gun.js"
-hash = "7a48a4c10b465115feab0defcdd443b65f4bb76d2bf6ddcb24f4517c2cc36b41"
+hash = "191bae490a0f09fbe41390b394acb9eb19d9ca6e63a3d87a92957679fef0a8a7"
 
 [[files]]
 file = "kubejs/server_scripts/remove_ie_wire_cutting.js"
@@ -1120,6 +1120,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "7efe2d26a41f536a75a615a70216da61b0b39b4039ac24111ca013f4d6c943dc"
 metafile = true
 
 [[files]]
