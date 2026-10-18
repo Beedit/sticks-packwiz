@@ -18,13 +18,15 @@ ServerEvents.recipes(event => {
   event.shaped(
     Item.of('create:creative_blaze_cake', 1),
     [
-      'AAA',
+      ' D ',
       'ABA',
-      'AAA'
+      'CCC'
     ],
     {
       A: 'mekanism:pellet_antimatter',
-      B: 'create:blaze_cake'
+      B: 'create:blaze_cake',
+      C: 'minecraft:lava_bucket',
+      D: 'minecraft:nether_star'
     }
   )
 
