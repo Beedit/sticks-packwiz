@@ -5,6 +5,10 @@ file = "kubejs/server_scripts/creative_recipes.js"
 hash = "c628745b1879b81fac5b47387f62e3da436988232e74eb251df438a2240f78a3"
 
 [[files]]
+file = "kubejs/server_scripts/neoperipherals.js"
+hash = "ad0e146c858b65af33af2c34e564404c4d47271557fce6419130c64ad275ab5e"
+
+[[files]]
 file = "kubejs/server_scripts/remove_ie_wire_cutting.js"
 hash = "4588e905977b33adcf00309bef1d565980e78ee8dc0f096256055254828147b3"
 
